@@ -12,9 +12,9 @@ This project is developed for SIA App Challenge.
 ## Completed features
 
 ![Snapshot of application](https://github.com/Wklee96/SIADemo/blob/master/app/src/main/assets/Snapshot.PNG)
-Implemented a PDF reader on application and parse the text to search for potential posts to be
+Implemented a PDF reader on application and parse the text to search for potential parts to be
 requested by the engineers.
 
-On the left, we have the catalogue window that dynamically changes on the scrolling of the PDF.
+On the left, we have the catalogue window that dynamically changes on the scrolling of the PDF while the PDF viewer is on the right.
 
 
