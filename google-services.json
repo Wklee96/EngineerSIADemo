@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "886483104689",
+    "firebase_url": "https://siademo-524d2.firebaseio.com",
+    "project_id": "siademo-524d2",
+    "storage_bucket": "siademo-524d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886483104689:android:dd9f7439188b43a2",
+        "android_client_info": {
+          "package_name": "com.weikang.pdfparser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886483104689-gm1iiael74ltscidp2jj0392n5vd2g4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqJEkbyJWwjBTLX-oZ-Hh84WcR7w3F_yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886483104689-gm1iiael74ltscidp2jj0392n5vd2g4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
