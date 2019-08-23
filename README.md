@@ -11,7 +11,7 @@ This project is developed for SIA App Challenge.
 
 ## Completed features
 
-![Snapshot of application]()
+![Snapshot of application](https://github.com/Wklee96/SIADemo/blob/master/app/src/main/assets/Snapshot.PNG)
 Implemented a PDF reader on application and parse the text to search for potential posts to be
 requested by the engineers.
 
